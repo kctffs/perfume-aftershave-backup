@@ -150,6 +150,12 @@ main {
 }
 
 /* Video */
+
+#perf-vid {
+    display: block;
+    margin: 0 auto;
+}
+
 .perf-after-hero {
     padding-top: 20px;
     margin: auto;
@@ -328,6 +334,11 @@ main {
         padding: 0 5px;
      }
 
+     #perf-vid {
+        width: 600px;
+        height: 300px;
+    }
+
      #wl-priority {
         width: 100%;
         flex-direction: column;
@@ -392,9 +403,10 @@ main {
      }
 
     /* Perfume Page */
-    .perf-after-hero {
-        width: 60%;
-        height: 60%;
+
+    #perf-vid {
+        width: 700px;
+        height: 400px;
     }
 
     #learn-h2 {
