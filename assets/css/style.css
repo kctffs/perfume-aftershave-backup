@@ -151,12 +151,12 @@ main {
 
 /* Video */
 
-#perf-vid {
+.perf-vid {
     display: block;
     margin: 0 auto;
 }
 
-.perf-after-hero {
+.frag-after-hero {
     padding-top: 20px;
     margin: auto;
 }
@@ -334,7 +334,7 @@ main {
         padding: 0 5px;
      }
 
-     #perf-vid {
+     .perf-vid {
         width: 600px;
         height: 300px;
     }
@@ -404,7 +404,7 @@ main {
 
     /* Perfume Page */
 
-    #perf-vid {
+    .perf-vid {
         width: 700px;
         height: 400px;
     }
