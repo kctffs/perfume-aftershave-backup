@@ -1,7 +1,7 @@
 # Important Notice Concerning GitHub Issue.
 ## Before reading my README.md file about my first project, I want to inform why the project has submitted the way it has been.
 
-I encountered a problem on 29th February, quite late at night, when trying to push my commits. Git had informed me about the video files I were using to be too large which, therefore, could not be pushed. As I was not aware of this restriction Git has inplace, I immediately tried to solve the issue myself by searching online for answers. I found Git's own information support which infomed me to run git lfs uninstall and I did. However, to no avail I had to continue to research online which took me around in circles of information as Git would refuse to push my work and ended up at a scenerio which looked like this.
+I encountered a problem on 29th February, quite late at night, when trying to push my commits. Git had informed me about the video files I were using to be too large which, therefore, could not be pushed. As I was not aware of this restriction Git has inplace, I immediately tried to solve the issue myself by searching online for answers. I found [Git's own information support](https://docs.github.com/en/repositories/working-with-files/managing-large-files/removing-files-from-git-large-file-storage) which infomed me to run git lfs uninstall and I did. However, to no avail I had to continue to research online which took me around in circles of information as Git would refuse to push my work and ended up at a scenerio which looked like this.
 
 ![Git Evidence 1](https://github.com/kctffs/perfume-aftershave2/assets/155545578/5ee2eef0-fb2e-4a9e-83ac-fd8c796e7831)
 
@@ -23,12 +23,20 @@ Another `git push --force` was then suggested after the deleting commit but Git 
 
 So, there is a link below this explanation to the inital workspace I had where all the original adds, commits and pushes are located for you to see and be able to go through.
 
-Git Repository for original workspace-
+[Git Repository for original workspace-](https://github.com/kctffs/perfume-aftershave)
+
+
+
+
+
+
 
 
 # Afterfume.
 
-Afterume is an online hub for everything applied fragrance and is constantly updating itself to keep ontop of the next trending item. Afterfume is not just tailered towards the fragrance enthusiats as the site offeres information about what fragrances are currently hot and what ones to keep an eye on. The usfeulness of Afterfume is undoubtabley helpful when trying to search for a new fragrance, keep tabs on a new release or find a similar scent to your favourite.
+Afterfume is an online hub for everything to do with applied fragrances and is constantly updating itself to keep ontop of the next trending item. 
+
+Afterfume is not just tailered towards the fragrance enthusiats as the site offeres information about what fragrances are currently hot and what ones to keep an eye on. The usefulness of Afterfume is undoubtabley helpful when trying to search for a new fragrance, keeping an eye on a new release or to find a similar scent to your favourite.
 
 IMG
 
@@ -129,7 +137,7 @@ IMG
 
   - ### Bugs.
    -  Apart from the obvious bug I have with the orignial repository stating at the top of the document, I encountered no other bugs.
-   -  Therefore, **unfixed bug** is only resulting in the bug I and Tutor tech support could not solve.
+   -  Therefore, **unfixed bugs** is only resulting in the bug I and Tutor tech support could not solve.
      
   - ### Deployment.
    -  Both Aftefume projects were deployed using GitHub and this was completed by:
@@ -137,4 +145,16 @@ IMG
    -  On the far left, selecting the sub-catagory of *Pages*.
    -  Selecting the dropdown menu in the *Branch* catagory and choosing *Main*.
    -  After selecting this catagory, GitHub will refresh and provide a deployment catagory on the far right of your repository.
-   -  The link to the live website for Afterfume is here:
+   -  [The link to the live website for Afterfume is here:](https://kctffs.github.io/perfume-aftershave2/index.html)
+
+## Credit.
+
+  - ### Content.
+   -  On the index page, the section regarding the history, makings, and types is from [Perfume.com](https://www.perfume.com/article-history-of-perfume).
+   -  Coding for the navigation bar and footer was influenced by the [Love Running](https://github.com/Code-Institute-Solutions/love-running-v3/tree/main/8.1-testing-and-validation) project.
+
+  - ### Media.
+   -  All photos and videos shown on Afterfume were from the free stock image site [Pexels](https://www.pexels.com/).
+   -  Favicon used for Afterfume was from the website [favicon.io](https://favicon.io/) with the icon image being from [FontAwesome](https://fontawesome.com/icons).
+   -  Icons used for the navigation bar, and sub-headings were from [FontAwesome](https://fontawesome.com/icons).
+   
