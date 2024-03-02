@@ -23,7 +23,7 @@ Another `git push --force` was then suggested after the deleting commit but Git 
 
 So, there is a link below this explanation to the inital workspace I had where all the original adds, commits and pushes are located for you to see and be able to go through.
 
-[Git Repository for original workspace-](https://github.com/kctffs/perfume-aftershave)
+[GIT REPOSITORY FOR ORIGINAL WORKSPACE](https://github.com/kctffs/perfume-aftershave)
 
 
 
@@ -36,7 +36,7 @@ So, there is a link below this explanation to the inital workspace I had where a
 
 Afterfume is an online hub for everything to do with applied fragrances and is constantly updating itself to keep ontop of the next trending item. 
 
-Afterfume is not just tailered towards the fragrance enthusiats as the site offeres information about what fragrances are currently hot and what ones to keep an eye on. The usefulness of Afterfume is undoubtabley helpful when trying to search for a new fragrance, keeping an eye on a new release or to find a similar scent to your favourite.
+Afterfume is not just tailered towards the fragrance enthusiasts as the site offeres information about what fragrances are currently hot and what ones to keep an eye on. The usefulness of Afterfume is undoubtabley helpful when trying to search for a new fragrance, keeping an eye on a new release or to find a similar scent to your favourite.
 
 IMG
 
