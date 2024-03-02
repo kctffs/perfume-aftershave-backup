@@ -97,32 +97,44 @@ IMG
 ![Afterfume-submission](https://github.com/kctffs/perfume-aftershave2/assets/155545578/379ebc8b-c4fd-4eb5-a85d-7ee4c1c08712)
 
   - ### Future Features.
-    - Links straight to external websites where exclusive offers from Afterfume's partners are provided.
+    -  Links straight to external websites where exclusive offers from Afterfume's partners are provided.
     -  Chat forums to help for the enthusiasts of fragrances, the undecided purchasers and general questioners.
     -  One more example would be to implement a mechanic to scroll through the database of past daily, weekly, monthly, yearly; winners, top trending, spotlight and watchlists.
       
 ## Testing.
 
-Upon deployment, there was no issues regarding the reposnsiveness of Afterfume throughout the changes of screen sizes. - Unfortunately, now that I have had more time to check over the website, there are a couple of imperfections that could be resolved with easy fixings. - One example of this is on the submission page, there is a lot more margin-bottom space than intended leaving an unnecassary amount of distance between the form and footer; the fix being to reducing the margin-bottom.
-Navigation works really well throught the sizes, even with the hover detail over 992px. - Improvement could be on the three-line bared sybmol where I would increase the size as you jump up from phone to tablet, tablet to desktop.
-Images and videos are kindly repsonsive in sizes and work well to fit. - Informative section of the index.html has two videos that are arguably too small when it reaches the 992px query.
-Fixing this would be as simple as increasing video height and width in css.
-Form testing was perfect as * implied sections are required and the email will not submit without and '@' address.
-Validating.
-HTML validator failed first time around on every page due to a variety of misspelling and wrong measurement units; only one warning occured for a section without a heading. - To resolve the misspelling issue, there was a thorough double and triple checking over the docunment, corrected as much as I saw. - To resolve the issue regarding the measurement units, it was to do with the video units, and I quickly realised there was 'px' so I removed them. - Finally there was an issure where I had ordered my tags the in the wrong order and this was quickly resovled.
-CSS Validating had no issues at all.
-Lighthouse Report.
-Chrome's lighthouse report gave Afterfume's best score after three analysations to the submission page for the desktop version. Lighthouse gave the worst report for the perfume page after three.
-Although this is a good way to be given some feedback, because they're estimated values, I found to have a constant of different ratings after every analysation which is then untrustworthy. - To resolves the performance testing next time around, I would make use of the blank space which was the main fault of the score being pulled down.
-Afterfume-lighthouse-db Afterfume-lighthouse-mw
+  - Upon deployment, there was no issues regarding the reposnsiveness of Afterfume throughout the changes of screen sizes.
+  - Unfortunately, now that I have had more time to check over the website, there are a couple of imperfections that could be resolved with easy fixings.
+   -  One example of this is on the submission page, there is a lot more margin-bottom space than intended leaving an unnecassary amount of distance between the form and footer; the fix being to reducing the margin-bottom.
+  - Navigation works really well throught the sizes, even with the hover detail over 992px.
+   -  Improvement could be on the three-line bared sybmol where I would increase the size as you jump up from phone to tablet, tablet to desktop.
+  - Images and videos are kindly repsonsive in sizes and work well to fit.
+   -  Informative section of the index.html has two videos that are arguably too small when it reaches the 992px query.
+    -   Fixing this would be as simple as increasing video height and width in css.
+  - Form testing was perfect as * implied sections are required and the email will not submit without and '@' address.
 
-Bugs.
-Apart from the obvious bug I have with the orignial repository stating at the top of the document, I encountered no other bugs.
-Therefore, unfixed bugs is only resulting in the bug I and Tutor tech support could not solve.
-Deployment.
-Both Aftefume projects were deployed using GitHub and this was completed by:
-Starting in the GitHub repository, opening up the settings tab.
-On the far left, selecting the sub-catagory of 'Pages'.
-Selecting the dropdown menu in the Branch catagory and choosing Main
-After selecting this catagory, GitHub will refresh and provide a deployment catagory on the far right of your repository.
-The link to the live website for Afterfume is here:
+  - ### Validating.   
+   -  HTML validator failed first time around on every page due to a variety of misspelling and wrong measurement units; only one warning occured for a section without a heading.
+    -   To resolve the misspelling issue, there was a thorough double and triple checking over the docunment, corrected as much as I saw.
+    -   To resolve the issue regarding the measurement units, it was to do with the video units, and I quickly realised there was 'px' so I removed them.
+    -   Finally there was an issure where I had ordered my tags the in the wrong order and this was quickly resovled.
+   -  CSS Validating had no issues at all.
+     
+  - ### Lighthouse Report.
+   -  Chrome's lighthouse report gave Afterfume's best score after three analysations to the submission page for the desktop version. Lighthouse gave the worst report for the perfume page after three.
+    -   Although this is a good way to be given some feedback, because they're estimated values, I found to have a constant of different ratings after every analysation which is then untrustworthy.
+    -   To resolve the performance testing next time around, I would make use of the blank space which was the main fault of the score being pulled down.
+      
+![Afterfume-lighthouse-db](https://github.com/kctffs/perfume-aftershave2/assets/155545578/ba9b144d-36e4-40b6-94f1-bb1031f2d159) ![Afterfume-lighthouse-mw](https://github.com/kctffs/perfume-aftershave2/assets/155545578/3be4009d-d525-4dbc-b451-b20632da928f)
+
+  - ### Bugs.
+   -  Apart from the obvious bug I have with the orignial repository stating at the top of the document, I encountered no other bugs.
+   -  Therefore, **unfixed bug** is only resulting in the bug I and Tutor tech support could not solve.
+     
+  - ### Deployment.
+   -  Both Aftefume projects were deployed using GitHub and this was completed by:
+   -  Starting in the GitHub repository, opening up the settings tab.
+   -  On the far left, selecting the sub-catagory of *Pages*.
+   -  Selecting the dropdown menu in the *Branch* catagory and choosing *Main*.
+   -  After selecting this catagory, GitHub will refresh and provide a deployment catagory on the far right of your repository.
+   -  The link to the live website for Afterfume is here:
