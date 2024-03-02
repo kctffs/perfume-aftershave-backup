@@ -1,5 +1,5 @@
 # Important Notice Concerning GitHub Issue.
-## Before reading my README.md file about my first project, I want to inform why the project has submitted the way it has been.
+## Before reading my README.md file about my first project, I want to inform you as to why the project has been submitted the way it has.
 
 I encountered a problem on 29th February, quite late at night, when trying to push my commits. Git had informed me about the video files I were using to be too large which, therefore, could not be pushed. As I was not aware of this restriction Git has inplace, I immediately tried to solve the issue myself by searching online for answers. I found [Git's own information support](https://docs.github.com/en/repositories/working-with-files/managing-large-files/removing-files-from-git-large-file-storage) which infomed me to run git lfs uninstall and I did. However, to no avail I had to continue to research online which took me around in circles of information as Git would refuse to push my work and ended up at a scenerio which looked like this.
 
